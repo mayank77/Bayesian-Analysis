@@ -1,3 +1,7 @@
+'''
+Decision Analysis Based On Utility using PyStan
+'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pystan
