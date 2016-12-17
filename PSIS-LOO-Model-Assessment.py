@@ -1,3 +1,7 @@
+'''
+Assess predictive performance of the pooled/separate/hierarchical Gaussian models using PyStan
+'''
+
 import pystan
 import psis as ps
 import numpy as np
