@@ -1,4 +1,4 @@
-# Bayesian-Analysis
+# Bayesian-Analysis Course -- Aalto University
 
 Reference for some code snippets : https://github.com/avehtari/ (PyStan Files Found Here)
 
